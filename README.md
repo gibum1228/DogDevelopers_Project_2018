@@ -1,1 +1,2 @@
-# DogDevelopers_Project_2018
+# 성공회대학교 개발 동아리 개발자들
+1. BISION - 비콘을 이용해 전시회 작품 설명
