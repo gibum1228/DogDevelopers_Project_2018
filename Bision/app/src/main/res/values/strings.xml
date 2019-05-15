@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Bision</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="google_map_api_key">AIzaSyARpXcamzEkP2am-y5wJ8MgcxFpbuHXnLc</string>
+</resources>

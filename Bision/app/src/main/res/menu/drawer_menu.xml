@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showln="nav_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/menu_notice"
+            android:icon="@drawable/ic_notice"
+            android:title="공지사항">
+        </item>
+        <item
+            android:id="@+id/menu_help"
+            android:icon="@drawable/ic_help"
+            android:title="도움말">
+        </item>
+        <item
+            android:id="@+id/menu_question"
+            android:icon="@drawable/ic_question_answer"
+            android:title="1:1문의"></item>
+        <item android:title="기능">
+            <menu>
+                <item
+                    android:id="@+id/menu_list"
+                    android:icon="@drawable/ic_list"
+                    android:title="시설전체목록보기"></item>
+            </menu>
+        </item>
+
+    </group>
+</menu>

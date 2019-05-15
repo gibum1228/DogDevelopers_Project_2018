@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "357786831640",
+    "firebase_url": "https://androidstudioprojects-38172.firebaseio.com",
+    "project_id": "androidstudioprojects-38172",
+    "storage_bucket": "androidstudioprojects-38172.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357786831640:android:ab01987748615756",
+        "android_client_info": {
+          "package_name": "motoroi.bision"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357786831640-j3ojirdpnfaojahuuld2phsi7oj5cild.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "motoroi.bision",
+            "certificate_hash": "faf6a7c246bef699e75cd490a3ed97a13f12ba4f"
+          }
+        },
+        {
+          "client_id": "357786831640-gjq92bdm76b1fjolscogno1k44r6rj7n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsLMK1Oyw4fTa3JhfuTM2u6d-fLyB2M0w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357786831640-gjq92bdm76b1fjolscogno1k44r6rj7n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

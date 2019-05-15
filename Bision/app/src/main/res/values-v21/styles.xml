@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:textViewStyle">@style/FontTextView</item>
+    </style>
+
+    <style name="FontTextView" parent="@android:style/TextAppearance.Widget.TextView">
+        <item name ="android:fontFamily">@font/the_light_blue_wind</item>
+    </style>
+</resources>
